@@ -12,14 +12,14 @@ The circuit includes a mute function that temporarily silences the alarm for a s
 
 | Reference  | Value            | Qty | Datasheet                                                        |
 |------------|------------------|-----|------------------------------------------------------------------|
-| C101       | [100MFD / 16V](https://s.click.aliexpress.com/e/_EJ7MXe9)     | 1   |                                                                  |
-| C102       | [0.1MFD / 50V](https://s.click.aliexpress.com/e/_oCeppvT)     | 1   |                                                                  |
+| C101       | [100µF / 16V](https://s.click.aliexpress.com/e/_EJ7MXe9)     | 1   |                                                                  |
+| C102       | [0.1µF / 50V](https://s.click.aliexpress.com/e/_oCeppvT)     | 1   |                                                                  |
 | D101       | [1N4007](https://s.click.aliexpress.com/e/_ExTh0Mz)           | 1   | http://www.vishay.com/docs/88503/1n4001.pdf                      |
 | K101       | [JQC-3F-12VDC-1ZS](https://s.click.aliexpress.com/e/_EyyWHrr) | 1   | https://www.futurlec.com/Datasheet/Relays/JQC-3FF.pdf            |
 | Q101       | [2SD400](https://s.click.aliexpress.com/e/_mNK5TeM)           | 1   | https://datasheet.octopart.com/2SD400-Sanyo-datasheet-101823.pdf |
-| R101       | [10K](https://s.click.aliexpress.com/e/_EJJGJg1)              | 1   |                                                                  |
-| R102       | [5.6K](https://s.click.aliexpress.com/e/_EJJGJg1)             | 1   |                                                                  |
-| R103, R104 | [22K](https://s.click.aliexpress.com/e/_EJJGJg1)              | 2   |                                                                  |
+| R101       | [10KΩ](https://s.click.aliexpress.com/e/_EJJGJg1)              | 1   |                                                                  |
+| R102       | [5.6KΩ](https://s.click.aliexpress.com/e/_EJJGJg1)             | 1   |                                                                  |
+| R103, R104 | [22KΩ](https://s.click.aliexpress.com/e/_EJJGJg1)              | 2   |                                                                  |
 | U101       | [PIC12F508-I/P](https://s.click.aliexpress.com/e/_EvdDNTr)    | 1   | https://ww1.microchip.com/downloads/en/DeviceDoc/41236E.pdf      |
 | U102       | [L7805](https://s.click.aliexpress.com/e/_opm5dbr)            | 1   | https://www.st.com/resource/en/datasheet/l78.pdf                 |
 
