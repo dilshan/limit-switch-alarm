@@ -25,7 +25,7 @@ The circuit includes a mute function that temporarily silences the alarm for a s
 
 ### PIC12F508 firmware
 
-The firmware for this project is developed using the MPLAB X IDE and the XC8 C compiler. The latest firmware is available in the /firmware directory in this repository. 
+The firmware for this project is developed using the [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) and the [XC8 C compiler](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers). The latest firmware is available in the [/firmware](https://github.com/dilshan/limit-switch-alarm/tree/main/firmware) directory in this repository. 
 
 ### External Components
 
