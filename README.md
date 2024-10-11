@@ -1,12 +1,12 @@
 ## Alarm unit for limit switches or flow switches
 
-![Alarm controller in action](/resources/main/limit-switch-alarm-ucase.jpeg)
+![Alarm controller in action](https://raw.githubusercontent.com/dilshan/limit-switch-alarm/refs/heads/main/resources/limit-switch-alarm-ucase.jpeg)
 
 This project introduces a cost-effective and do-it-yourself (DIY) solution for monitoring floater switches and activating alarms in various applications. The designed circuit, which is based on the PIC12F508 microcontroller, effectively detects changes in floater switch status and triggers the alarm. The system is designed to operate with a 12V DC power supply and utilizes a 230V AC buzzer unit for audible alerts.
 
 The circuit includes a mute function that temporarily silences the alarm for a specified duration. Additionally, a built-in timeout mechanism ensures continuous alarm activation if the floater switch remains closed for an extended period, indicating a potential emergency. The project's modular design and clear documentation facilitate easy assembly and customization, making it suitable for a wide range of applications, including home automation, industrial monitoring, and environmental sensing.
 
-![Prototype version of alarm controller](/resources/main/limit-switch-alarm-prototype.jpg)
+![Prototype version of alarm controller](https://raw.githubusercontent.com/dilshan/limit-switch-alarm/refs/heads/main/resources/limit-switch-alarm-prototype.jpg)
 
 ### Bill of materials
 
